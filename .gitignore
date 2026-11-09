@@ -1,0 +1,24 @@
+# build artifacts
+*.class
+
+# runtime outputs / local state
+output/
+output2/
+uploads/
+stlgen_settings.txt
+server_out.log
+server_err.log
+
+# local tooling
+.omo/
+prep_git.ps1
+commitmsg.txt
+fix_git.ps1
+prep_git.ps1
+fix_git.ps1
+push_git.ps1
+commitmsg.txt
+prep_git.ps1
+fix_git.ps1
+push_git.ps1
+commitmsg.txt
